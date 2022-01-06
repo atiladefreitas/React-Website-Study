@@ -1,3 +1,47 @@
+# React Website Study
+<p align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</p>
+
+## Description
+
+### A simple and quick study of react for create a website
+
+## Author
+
+### Átila de Freitas
+<p align="center">
+  <a href="https://instagram.com/atiladefreitas.co">
+        <img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/atilafreitas">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:contact@atiladefreitas.co">
+        <img src="https://img.shields.io/badge/-contact@atiladefreitas.co-%230077B5?style=for-the-badge&logo=icloud&logoColor=white&color=informational">
+    </a>
+  </p>
+
+## This code was made by following instructions by:
+
+### Brian from CodaVilla
+
+<p align="center">
+   <a href="https://www.youtube.com/watch?v=3nLTB_E6XAM&t=5168s">
+        <img  src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+  </p>
+  
+  <br />
+    <br />
+    
+  ---
+
+  <br />
+    <br />
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
